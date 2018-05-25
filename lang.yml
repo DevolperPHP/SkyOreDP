@@ -1,0 +1,14 @@
+---
+en:
+  kill: was killed by
+  cannotjoin: You can't join.
+  seconds: seconds to start
+  won: '§fWon SkyWars in arena: §b'
+  deathmatchminutes: minutes to DeathMatch!
+  deathmatchseconds: seconds to DeathMatch!
+  chestrefill: The chest have been refilled!
+  remainingminutes: minutes remaining!
+  remainingseconds: seconds remaining!
+  nowinner: '§fNo winner in arena: §b'
+  moreplayers: Wait Players joiin
+...

@@ -1,0 +1,22 @@
+name: SkyOreDP
+main: JuzeXmod\SkyOreDP\SkyOreDP
+author: JUZEXMOD
+version: 1.0.0
+api: 3.0.0
+
+commands:
+    sodp:
+        usage: /sodp <leave-make>
+        description: SkyWars-Commands
+    lang:
+        usage: /lang <ar>
+        description: SkyOreDP-English-Arabic
+    sorank:
+        usage: /sorank
+        description: SkyRank-Commands
+    sostart:
+        usage: /sostart
+        description: SkyOreDP-Force start
+    money:
+        usage: /money
+        description: Set-Money-Win
